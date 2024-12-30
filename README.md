@@ -30,5 +30,5 @@ Develop a machine learning pipeline to accurately identify fraudulent credit car
 The XGBoost model was the most effective, with Decision Tree and kNN providing specific advantages for recall and precision, respectively.  
 
 ## Project Link  
-[GitHub Repository](https://github.com/Vinitha-dotcom/Credit-Card-Fraud-Detection-/blob/main/Credit_card_fraud_detection_ML_Project.ipynb)  
+[Credit Card Fraud detection Project Link](https://github.com/Vinitha-dotcom/Credit-Card-Fraud-Detection-/blob/main/Credit_card_fraud_detection_ML_Project.ipynb)  
 
